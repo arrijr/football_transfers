@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Montserrat;
+  src: url(./static/Montserrat-Medium.ttf);
+}
+@font-face {
+  font-family: MontserratH;
+  src: url(./static/Montserrat-SemiBold.ttf);
+}
+body {
+  font-family: Montserrat;
+}
+
+h1 {
+  font-family: MontserratH;
+}/*# sourceMappingURL=style.css.map */

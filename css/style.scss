@@ -1,0 +1,23 @@
+$font-content: Montserrat;
+$font-header: MontserratH;
+
+
+
+
+@font-face {
+    font-family: Montserrat;
+    src: url(./static/Montserrat-Medium.ttf);
+  }
+@font-face {
+font-family: MontserratH;
+src: url(./static/Montserrat-SemiBold.ttf);
+}
+
+
+body {
+font-family: $font-content;
+}
+
+h1 {
+    font-family: $font-header;   //funktioniert noch nicht
+}
